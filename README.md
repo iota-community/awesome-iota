@@ -22,9 +22,10 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 **IOTA** is the missing puzzle piece for **the Machine Economy** to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.
 
-* [IOTA](https://iota.org) - Next Generation Blockchain
-* [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) - The Tangle
-* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)) - https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)
+* [IOTA](https://iota.org) - A non-profit foundation developing next generation protocols for the connected world.
+* [Whitepaper](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf) - The Tangle
+* [Academic Papers](https://www.iota.org/foundation/research-papers) - The Tangle
+* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology)) - IOTA (technology)
 * [A Primer on IOTA](https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621) - A Primer on IOTA (with Presentation)
 * [IOTA China](http://iotachina.com/) - IOTA China 首页
 * [IOTA Italia](http://iotaitalia.com/) - IOTA Italia
@@ -37,16 +38,10 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 *Blogs & Sites about IOTA*
 
 * [IOTA Blog](https://blog.iota.org) - Official Blog of IOTA
-* [All About IOTA](https://aboutiota.info/) - All About IOTA
-* [IOTA Support](http://www.iotasupport.com) - IOTA Support - Your guide to the world of IOTA
-* [The Tangler](http://www.tangleblog.com) - No Bells And Whistles, Just Information
+* [HelloIOTA](https://www.helloiota.com/) - IOTA Blog and Videos
 * [IOTA Stack Exchange](https://iota.stackexchange.com/) - IOTA Stack Exchange
 * [IOTA Steemit Trending](https://steemit.com/trending/iota) - IOTA Steemit
-* [TrustedIoTAlliance](https://www.trustediot.org) - Securing IoT products with Blockchain.
-* [IOTA Tips](http://www.iota.tips) - IOTA Tips
-* [IOTA Token](http://iotatoken.io) - IOTA DECENTRALISED INTERNET-OF-THINGS TOKEN
 * [IOTA News](http://iota.news) - IOTA News
-* [レオンハルトジャパン公式BLOG](http://lhj.hatenablog.jp/entry/iota) - IOTA 日本語情報サイト
 
 ## Articles
 
@@ -85,7 +80,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 *IOTA Wallets*
 
-* [Trinity Wallet](https://github.com/iotaledger/trinity-wallet) - IOTA - Trinity Wallet (Desktop and Mobile)
+* [Trinity Wallet](https://trinity.iota.org/) - IOTA - Trinity Wallet (Desktop and Mobile)
 
 
 
@@ -93,15 +88,12 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 *3rd party tools on IOTA*
 
-* [Tangle Blox](https://tangle.blox.pm) - IOTA Tangle
-* [IOTA Tools](http://iota.tools) - IOTA tools
-* [IOTA Price](http://iotaprice.com) - IOTA Price
-* [IOTA Cool](http://iota.cool) - IOTA cool tools
-* [IOTA Balance Lookup](http://iotabalance.com/) - Minimalist IOTA Balance Lookup
-* [tangler.org](http://tangler.org/) - IOTA Tangle Explorer
-* [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
-* [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
-* [thetangle.org](https://thetangle.org/) - IOTA Tangle Explorer
+* [iotasear.ch](https://iotasear.ch) - Tangle Explorer
+* [thetangle.org](https://thetangle.org/) - Tangle Explorer and Tools
+
+* [einfachIOTA Explorer](https://explorer.einfachiota.de/) - Tangle Explorer and Tools
+* [IOTA Price](https://iotaprice.com) - IOTA Price
+
 
 ## Developers
 
@@ -109,10 +101,12 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 ### Official by the IOTA Foundation
 
-* [Documentation](https://iota.readme.io/v1.1.0/docs) - Documentation of IOTA
-* [The IOTA Developer Hub](https://iota.readme.io) - The IOTA Developer Hub
-* [Get Started with IOTA](https://learn.iota.org) - The best way to learn more about IOTA through interactive developer tutorials
-* [The IOTA Developer Hub](https://dev.iota.org) - Start Developing with IOTA
+* [Tangle Explorer](https://explorer.einfachiota.de/) - Official IOTA  Explorer and Tools
+* [Documentation](https://docs.iota.org/) - Documentation of IOTA
+* [Get Started with IOTA](https://docs.iota.org/docs/getting-started/1.1/introduction/overview) - The best way to learn more about IOTA through interactive developer tutorials
+
+
+#### Libraries
 * [iota.lib.csharp](https://github.com/iotaledger/iota.lib.csharp) - Iota.Lib.Csharp
 * [iota.lib.py](https://github.com/iotaledger/iota.lib.py) - PyOTA: The IOTA Python API Library
 * [iota.lib.js](https://github.com/iotaledger/iota.lib.js) - IOTA Javascript Library
