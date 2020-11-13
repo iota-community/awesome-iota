@@ -74,7 +74,6 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [How it works: The IOT](https://www.youtube.com/watch?v=QSIPNhOiMoE) - How it works: The IOT
 * [Welcome to the IOTA universe](https://www.youtube.com/watch?v=n5sEevHBLN8) - Welcome to the IOTA universe
 * [IOTA coin](https://www.youtube.com/watch?v=SUNkglQhC8Y) - IOTA coin
-* [IOTA ecosystem fund](https://www.youtube.com/watch?v=7RLIIKr4CQY) - IOTA ecosystem fund
 
 ## Wallets
 
