@@ -24,7 +24,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 * [IOTA](https://iota.org) - A non-profit foundation developing next generation protocols for the connected world.
 * [Whitepaper](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf) - The Tangle
-* [Academic Papers](https://www.iota.org/foundation/research-papers) - The Tangle
+* [Academic Papers](https://www.iota.org/foundation/research-papers) - Research undertaken on topics related to The Tangle and IOTA technologies.
 * [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology)) - IOTA (technology)
 * [A Primer on IOTA](https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621) - A Primer on IOTA (with Presentation)
 * [IOTA China](http://iotachina.com/) - IOTA China 首页
