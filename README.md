@@ -89,7 +89,6 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 * [iotasear.ch](https://iotasear.ch) - Tangle Explorer
 * [thetangle.org](https://thetangle.org/) - Tangle Explorer and Tools
-
 * [einfachIOTA Explorer](https://explorer.einfachiota.de/) - Tangle Explorer and Tools
 * [IOTA Price](https://iotaprice.com) - IOTA Price
 
