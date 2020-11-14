@@ -120,6 +120,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA C++ library](https://github.com/thibault-martinez/iota.lib.cpp) A IRI client library in C++ for IRI
 * [IOTA address utilities](https://github.com/pRizz/IOTA-Address-Utilities) A library to working with IOTA addresses
 * [IOTA C Library](https://github.com/th0br0/iota.lib.c) A C library to generate seeds, addresses etc.
+* [IOTA RIOT OS integration](https://github.com/Citrullin/RIOT/blob/iota_implementation/examples/iota-transaction/main.c) An integration of the C library in RIOT OS.
 
 #### Managment
 
