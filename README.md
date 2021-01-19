@@ -155,18 +155,31 @@ Chrysalis (IOTA 1.5) is changing a lot of things.
 
 Let's discover, what in detail!
 
-## Nodes
+### Articles
+* [Chrysalis Weekly Update - January 8](https://blog.iota.org/chrysalis-update-january-8/)
+* [Chrysalis (IOTA 1.5) Public Testnet is Live](https://blog.iota.org/chrysalis-phase-2-testnet-out-now/)
+* [Chrysalis weekly update - December 11](https://blog.iota.org/chrysalis-update-december-11/)
+* [Chrysalis update — December 4](https://blog.iota.org/chrysalis-update-december-4-130be7e5650d/)
+* [Chrysalis Weekly Status Update — November 27](https://blog.iota.org/chrysalis-weekly-update-november-27-9a7582485d2/)
+* [Chrysalis Weekly Status Update — November 19th](https://blog.iota.org/chrysalis-weekly-update-november-19-51583f4b9a66/)
+* [Dev Status Update — November, 2020](https://blog.iota.org/dev-status-update-november-2020-80e28a27f7bb/)
+* [Dev Status Update — November, 2020](https://blog.iota.org/dev-status-update-november-2020-80e28a27f7bb/)
+* [Dev Status Update — October, 2020](https://blog.iota.org/dev-status-update-october-2020-3a8253792383/)
+* [Chrysalis (IOTA 1.5) Phase 2 Update And Next Steps](https://blog.iota.org/chrysalis-iota-1-5-phase-2-update-and-next-steps-eecabe55d7bd/)
+
+
+### Nodes
 * [goHornet (branch: develop)](https://github.com/gohornet/hornet/tree/develop) - IOTA Node driven by the Community
 * [bee (branch: chrysalis-pt-2)](https://github.com/iotaledger/bee/tree/chrysalis-pt-2) - IOTA Node driven by IOTA Foundation
 
-## Client Software
+### Client Software
 * [iota.rs](https://github.com/iotaledger/iota.rs)
     * [Node.js](https://github.com/iotaledger/iota.rs/tree/dev/bindings/node)
 * [wallet.rs](https://github.com/iotaledger/wallet.rs)
     * [Node.js](https://github.com/iotaledger/wallet.rs/tree/develop/bindings/nodejs)
 
 
-## Public Network Access
+### Public Network Access
 Nodes deployed to the testnet can be queried using a load balancer at:
 
 - api.lb-0.testnet.chrysalis2.com
@@ -183,7 +196,7 @@ Single node endpoints, for example for MQTT use, are:
 
 Node API is integrated according to the [following specification](https://editor.swagger.io/?url=https://raw.githubusercontent.com/rufsam/protocol-rfcs/master/text/0026-rest-api/rest-api.yaml)
 
-## Developer Tools
+### Developer Tools
 * [Explorer](https://explorer.iota.org/chrysalis) - IOTA Explorer
 * [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
 * [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
