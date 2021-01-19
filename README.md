@@ -12,6 +12,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
     - [Wallets](#wallets)
     - [Tools](#tools)
     - [Developers](#developers)
+    - [Chrysalis](#chrysalis)
 - [Contributing](#contributing)
 
 ## About
@@ -148,6 +149,46 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Iota-Basic](https://github.com/thedewpoint/iota-basic) Basic implementation of Iota api allowing easy interactions with the network (in progress)
 * [Iota-Prom-Exporter](https://github.com/crholliday/iota-prom-exporter) Prometheus exporter for IOTA Metrics and associated Grafana dashboard
 * [TangleID](https://github.com/TangleID/TangleID) Secure self-sovereign identity built on IOTA/Tangle
+
+# Chrysalis (IOTA 1.5)
+Chrysalis is almost changing everyting. 
+
+Let's discover, what in detail!
+
+## Nodes
+* [goHornet (branch: develop)](https://github.com/gohornet/hornet/tree/develop) - IOTA Node driven by the Community
+* [bee (branch: chrysalis-pt-2)](https://github.com/iotaledger/bee/tree/chrysalis-pt-2) - IOTA Node driven by IOTA Foundation
+
+## Client Software
+* [iota.rs](https://github.com/iotaledger/iota.rs)
+    * [Node.js](https://github.com/iotaledger/iota.rs/tree/dev/bindings/node)
+* [wallet.rs](https://github.com/iotaledger/wallet.rs)
+    * [Node.js](https://github.com/iotaledger/wallet.rs/tree/develop/bindings/nodejs)
+
+
+## Public Network Access
+Nodes deployed to the testnet can be queried using a load balancer at:
+
+- api.lb-0.testnet.chrysalis2.com
+
+We recommend using the load balancer for most scenarios.
+
+Single node endpoints, for example for MQTT use, are:
+
+- api.hornet-0.testnet.chrysalis2.com
+- api.hornet-1.testnet.chrysalis2.com
+- api.hornet-2.testnet.chrysalis2.com
+- api.hornet-3.testnet.chrysalis2.com
+
+
+Node API is integrated according to the [following specification](https://editor.swagger.io/?url=https://raw.githubusercontent.com/rufsam/protocol-rfcs/master/text/0026-rest-api/rest-api.yaml)
+
+## Developer Tools
+* [Explorer](https://explorer.iota.org/chrysalis) - IOTA Explorer
+* [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
+* [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
+* [chrysalis-faucet Code (nodejs + svelte)](https://github.com/iotaledger/chrysalis-faucet) - For developer inspiration
+
 
 
 # Contributing
