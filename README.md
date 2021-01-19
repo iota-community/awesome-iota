@@ -12,7 +12,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
     - [Wallets](#wallets)
     - [Tools](#tools)
     - [Developers](#developers)
-    - [Chrysalis](#chrysalis)
+    - [Chrysalis (IOTA 1.5)](#chrysalis)
 - [Contributing](#contributing)
 
 ## About
@@ -150,8 +150,8 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Iota-Prom-Exporter](https://github.com/crholliday/iota-prom-exporter) Prometheus exporter for IOTA Metrics and associated Grafana dashboard
 * [TangleID](https://github.com/TangleID/TangleID) Secure self-sovereign identity built on IOTA/Tangle
 
-# Chrysalis (IOTA 1.5)
-Chrysalis is almost changing everyting. 
+## Chrysalis
+Chrysalis (IOTA 1.5) is changing a lot of things. 
 
 Let's discover, what in detail!
 
@@ -188,7 +188,6 @@ Node API is integrated according to the [following specification](https://editor
 * [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
 * [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
 * [chrysalis-faucet Code (nodejs + svelte)](https://github.com/iotaledger/chrysalis-faucet) - For developer inspiration
-
 
 
 # Contributing
