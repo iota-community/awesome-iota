@@ -202,11 +202,11 @@ Node API is integrated according to the [following specification](https://editor
 * [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
 * [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
 * [chrysalis-faucet Code (nodejs + svelte)](https://github.com/iotaledger/chrysalis-faucet) - For developer inspiration
-* [tangle-cli](https://github.com/iotaledger/tangle.js/tools/tangle-cli) - To play with Decentralized IDs, Verifiable Credentials, IOTA Streams, ... 
+* [tangle-cli](https://github.com/iotaledger/tangle.js/tree/main/tools/tangle-cli) - To play with Decentralized IDs, Verifiable Credentials, IOTA Streams, ... 
 
 ### Utility Libraries for App Developers
-* [anchors](https://github.com/iotaledger/tangle.js/libs/anchors) - IOTA Streams' single publisher channels made easier.
-* [ld-proofs](https://github.com/iotaledger/tangle.js/libs/ld-proofs) - Sign and anchor your messages to the Tangle as [W3C Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/). 
+* [anchors](https://github.com/iotaledger/tangle.js/tree/main/libs/anchors) - IOTA Streams' single publisher channels made easier.
+* [ld-proofs](https://github.com/iotaledger/tangle.js/tree/main/libs/ld-proofs) - Sign and anchor your messages to the Tangle as [W3C Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/). 
 
 # Contributing
 
