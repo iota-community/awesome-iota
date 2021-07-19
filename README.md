@@ -124,7 +124,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA C Library](https://github.com/embedded-iota/iota-c-library/tree/upgrade) A C library to generate addresses, transaction and bundles etc.
 * [IOTA RIOT OS integration](https://github.com/Citrullin/RIOT/blob/iota_implementation/examples/iota-transaction/main.c) An integration of the C library in RIOT OS.
 
-#### Managment
+#### Management
 
 * [IOTA peer manager](https://github.com/akashgoswami/ipm) - A peer (neighbors) management WebUI for IRI 
 * [Open IOTA](https://github.com/pRizz/open-iota) A open tangle explorer web app
@@ -202,7 +202,11 @@ Node API is integrated according to the [following specification](https://editor
 * [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
 * [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
 * [chrysalis-faucet Code (nodejs + svelte)](https://github.com/iotaledger/chrysalis-faucet) - For developer inspiration
+* [tangle-cli](https://github.com/iotaledger/tangle.js/tools/tangle-cli) - To play with Decentralized IDs, Verifiable Credentials, IOTA Streams, ... 
 
+### Utility Libraries for App Developers
+* [anchors](https://github.com/iotaledger/tangle.js/libs/anchors) - IOTA Streams' single publisher channels made easier.
+* [ld-proofs](https://github.com/iotaledger/tangle.js/libs/ld-proofs) - Sign and anchor your messages to the Tangle as [W3C Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/). 
 
 # Contributing
 
